@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<rows>4</rows>
+	<columns>4</columns>
+	<description>Match the pairs in 3 minutes!</description>
+	<type>memory</type>
+	<timerType>countdown</timerType>
+	<time>
+		<minutes>3</minutes>
+		<seconds>0</seconds>
+	</time>
+	<rules>
+		<rule>pair</rule>
+	</rules>
+	<fruits>
+		<fruit>banana</fruit>
+		<fruit>apple</fruit>
+		<fruit>orange</fruit>
+		<fruit>grapes</fruit>
+		<fruit>watermelon</fruit>
+		<fruit>strawberry</fruit>
+		<fruit>lemon</fruit>
+		<fruit>pineapple</fruit>
+	</fruits>
+</data>

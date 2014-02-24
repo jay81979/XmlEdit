@@ -1,0 +1,37 @@
+﻿<!doctype html>
+<html lang="en" ng-app="crtConfig">
+<head>
+    <meta charset="utf-8">
+    <title>Xml Edit</title>
+    <link rel="stylesheet" href="css/app.css"/>
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.css"/>
+
+    <!-- In production use:
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+    -->
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular/angular-route.js"></script>
+    <script src="lib/angular-addons/angular-file-upload.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/services/xmlService.js"></script>
+    <script src="js/controllers/xmlUploadController.js"></script>
+    <script src="js/controllers/xmlSchemaController.js"></script>
+    <script src="js/filters.js"></script>
+    <script src="js/directives.js"></script>
+    <script src="lib/jquery/jquery-1.11.0.js"></script>
+    <script src="lib/bootstrap/bootstrap.js"></script>
+</head>
+<body>
+    <div class="container">
+        <ul>
+            <li>Admin
+            <ul>
+                <li><a href="#/uploadNewXml">Upload new XML</a></li>
+                <li><a href="#/editSchema">Edit Schema</a></li>
+            </ul>
+            </li>
+        </ul>
+        <div ng-view></div>
+    </div>
+</body>
+</html>
