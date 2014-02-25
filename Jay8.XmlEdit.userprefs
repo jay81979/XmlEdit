@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jay8.XmlEdit/WindsorDependencyResolver.cs">
+    <Files>
+      <File FileName="Jay8.XmlEdit/App_Start/WebApiConfig.cs" Line="1" Column="1" />
+      <File FileName="Jay8.XmlEdit/Controllers/ProductsController.cs" Line="6" Column="23" />
+      <File FileName="Jay8.XmlEdit/Models/IXmlRepository.cs" Line="1" Column="1" />
+      <File FileName="Jay8.XmlEdit/Models/XmlRepository.cs" Line="1" Column="1" />
+      <File FileName="Jay8.XmlEdit/Controllers/XmlController.cs" Line="1" Column="1" />
+      <File FileName="Jay8.XmlEdit/DIInstallers/RepositoriesInstaller.cs" Line="1" Column="1" />
+      <File FileName="Jay8.XmlEdit/DIPlumbing/WindsorCompositionRoot.cs" Line="5" Column="1" />
+      <File FileName="Jay8.XmlEdit/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="Jay8.XmlEdit/WindsorDependencyResolver.cs" Line="38" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
